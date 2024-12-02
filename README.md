@@ -24,7 +24,7 @@ Scenario 1 -
 -->
 
 ### Use input-output redirection (>, >>, |, 2>, etc.)
-[Create Yoongi and Jimin's Profile using (<, >>, and >)](https://github.com/Oluwa-Temmy/RHEL-Scenario/blob/main/RHCSAEX200/EssentialTools/Scenerio1.txt)
+[Create Yoongi and Jimin's Profile using (<, >>, and >)](https://github.com/Oluwa-Temmy/RHEL-Scenario/blob/main/RHCSAEX200/EssentialTools/Scenerio1.txt) -- [Solution](https://github.com/Oluwa-Temmy/RHEL-Scenario/blob/main/RHCSAEX200/EssentialTools/Scenerio1_Solution.txt)
 <!--
 ### Use grep and regular expressions to analyze text
 ### Access remote systems using SSH
