@@ -24,7 +24,7 @@ Scenario 1 -
 -->
 
 ### Use input-output redirection (>, >>, |, 2>, etc.)
-Scenario 1 - Create Yoongi's Profile
+Create Yoongi and Jimin's Profile using (<, >>, and >)
 <!--
 ### Use grep and regular expressions to analyze text
 ### Access remote systems using SSH
