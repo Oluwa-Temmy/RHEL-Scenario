@@ -1,6 +1,6 @@
 # RHEL-Scenario
 This this repo is intended to be a source of education for those wanting to improve or confirm their skills in RHEL 9
-in order to take the RHSCA exam.
+in order to take the RHSCA 200 exam.
 Most of these scenarios should apply to RHEL 8+.
 This repo assumes you have already taken some sort of course on RHEL or have some sort of experience with RHEL
 
@@ -15,8 +15,17 @@ and do the trial version. Proton it as long as you need to. ifykyk
 
 After downloading add the iso to virtualbox and start the machine.
 
-## RHCSA 124
+# Objectives
+<!--
+## Understand and use essential tools
+Scenario 1 -
+### Access a shell prompt and issue commands with correct syntax
+Scenario 1 -
+-->
 
-## RHCSA 134
-
-
+### Use input-output redirection (>, >>, |, 2>, etc.)
+Scenario 1 - Create Yoongi's Profile
+<!--
+### Use grep and regular expressions to analyze text
+### Access remote systems using SSH
+-->
