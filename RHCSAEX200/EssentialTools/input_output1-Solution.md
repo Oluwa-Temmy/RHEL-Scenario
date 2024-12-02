@@ -14,12 +14,16 @@ for this task you will do
 `cat > yoongipfp.txt`
 
 you can then add the content to the file
+"""
+Group: BTS
+Country: South Korea
+"""
 
 ----------------------------------------------------
 
 Task 2:
 
-You will cat yoongipfp.txt and use `` to input the output to 
+You will cat yoongipfp.txt and use `>` to input the output to 
 a new file called jiminpfp.txt
 
 `cat < yoongipfp.txt > jiminpfp.txt`
