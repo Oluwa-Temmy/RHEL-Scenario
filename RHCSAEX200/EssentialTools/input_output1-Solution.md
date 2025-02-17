@@ -1,41 +1,43 @@
-Scenario 1
+INPUT & OUTPUT
 ____________________________________________________________
 
 Objective
 In this Scenario input-output redirection using `<`, `>>`, and `>`
 
 ____________________________________________________________
-Your a brand new system administrator at HYBE co.
+Your a brand new system administrator at HYBE co. please complete these tasks
 
 Task 1:
 
-for this task you will do 
-
-`cat > yoongipfp.txt`
-
-you can then add the content to the file
-"""
+```
+cat > yoongi/babj.txt
 Group: BTS
 Country: South Korea
-"""
+# Ctrl + d to exit the editor
 
-----------------------------------------------------
+OR
+
+echo echo -e "Group: BTS\nCountry: South Korea" > yoongi/babyj.txt
+
+# Then
+cat < babyj.txt
+```
+
+-----------------------------------------------------
 
 Task 2:
 
-You will cat yoongipfp.txt and use `>` to input the output to 
-a new file called jiminpfp.txt
+```
+echo "Name: Park Jimin" >> babyj.txt 
+echo "Name: Min Yoongi" >> yoongi.txt
+```
 
-`cat < yoongipfp.txt > jiminpfp.txt`
-
-------------------------------------------------------
+-----------------------------------------------------
 
 Task 3:
 
-Append the names to each file you would use
+```
+cat babyj.txt > jimin.txt
+```
 
-`cat >> jiminpfp.txt`
-Name: Park Jimin
-
-`cat >> yoongipfp.txt`
-Name: Min Yoongi
+-----------------------------------------------------
