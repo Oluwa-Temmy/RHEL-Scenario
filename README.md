@@ -59,7 +59,13 @@ Each task includes a corresponding solution. In this format:
 
 ---
 
+### :smile: GOOD LUCK!!!!
+
 Feel free to explore other tasks and scenarios as you continue to build your RHEL skills in preparation for the RHSCA EX200 exam!
 
-:smile: GOOD LUCK!!!!
+### :link: Reference & Resources
+- [Red Hat RHCSA Objectives](https://www.redhat.com/en/services/certification/rhcsa)
+
+
+
 
